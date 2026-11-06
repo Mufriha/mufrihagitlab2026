@@ -4,4 +4,4 @@ class a
 	{
 		print("git lab")
 	}	
-a}	
+	a
